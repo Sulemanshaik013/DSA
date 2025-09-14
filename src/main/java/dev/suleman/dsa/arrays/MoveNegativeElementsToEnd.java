@@ -1,4 +1,4 @@
-package com.s13bytes.arrays;
+package dev.suleman.dsa.arrays;
 
 public class MoveNegativeElementsToEnd {
     public static void main(String[] args) {

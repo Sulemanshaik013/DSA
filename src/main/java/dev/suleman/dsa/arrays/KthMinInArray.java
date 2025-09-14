@@ -1,4 +1,4 @@
-package com.s13bytes.arrays;
+package dev.suleman.dsa.arrays;
 
 import java.util.Arrays;
 import java.util.Collections;
